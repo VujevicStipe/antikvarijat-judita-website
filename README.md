@@ -22,7 +22,7 @@ The Antikvarijat Judita website underwent a complete redesign and development pr
 
 ## Usage
 
-To view the website, simply visit [Antikvarijat Judita](http://www.antikvarijat-judita.hr/) in your web browser. You can explore the various pages and features of the website to experience the redesign firsthand.
+To view the website, simply visit [Antikvarijat Judita](http://www.antikvarijat-judita.hr/). in your web browser. You can explore the various pages and features of the website to experience the redesign firsthand.
 
 ## Contribution
 
