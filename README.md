@@ -1,6 +1,6 @@
 # Antikvarijat Judita Website Redesign
 
-This repository contains the redesigned and developed version of the Antikvarijat Judita website. The original website was given a modern look and enhanced functionality to improve user experience. The redesigned website is live at [Antikvarijat Judita](https://www.antikvarijat-judita.hr/).
+This repository contains the redesigned and developed version of the Antikvarijat Judita website. The original website was given a modern look and enhanced functionality to improve user experience. The redesigned website is live at [Antikvarijat Judita](http://www.antikvarijat-judita.hr/).
 
 ## Description
 
@@ -22,7 +22,7 @@ The Antikvarijat Judita website underwent a complete redesign and development pr
 
 ## Usage
 
-To view the website, simply visit [Antikvarijat Judita](https://www.antikvarijat-judita.hr/) in your web browser. You can explore the various pages and features of the website to experience the redesign firsthand.
+To view the website, simply visit [Antikvarijat Judita](http://www.antikvarijat-judita.hr/) in your web browser. You can explore the various pages and features of the website to experience the redesign firsthand.
 
 ## Contribution
 
