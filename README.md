@@ -4,13 +4,14 @@ This repository contains the redesigned and developed version of the Antikvarija
 
 ## Description
 
-The Antikvarijat Judita website underwent a complete redesign and development process to give it a more modern appearance and functionality. The goal was to enhance the user experience and make the website more visually appealing while maintaining its core functionality.
+The Antikvarijat Judita website underwent a complete redesign and development process to give it a more modern appearance and functionality. The goal was to enhance the user experience and make the website more visually appealing while maintaining its core functionality. Throughout this project, I gained valuable experience in website redesign, development, and hosting.
 
 ## Technologies Used
 
 - HTML: Used for structuring the content and layout of the web pages.
 - CSS: Utilized for styling the website and implementing responsive design for all devices.
 - Responsive Design: The website is designed to be fully responsive, ensuring optimal viewing and interaction experience across a wide range of devices, including desktops, laptops, tablets, and mobile phones.
+- Hosting: Learned about web hosting and domain management, which enabled me to deploy the redesigned website to a live server and set up a custom domain name.
 
 ## Features
 
