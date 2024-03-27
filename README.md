@@ -10,6 +10,8 @@ You can view the live demo of the project at [Antikvarijat Judita](http://www.an
 
 The Antikvarijat Judita website underwent a complete redesign and development process to give it a more modern appearance and functionality. The goal was to enhance the user experience and make the website more visually appealing while maintaining its core functionality. Throughout this project, I gained valuable experience in website redesign, development, and hosting.
 
+![Alt Text](./assets/showcaseJudita.png)
+
 ## Technologies Used
 
 - HTML: Used for structuring the content and layout of the web pages.
