@@ -26,10 +26,6 @@ The Antikvarijat Judita website underwent a complete redesign and development pr
 - Responsive Layout: The website is responsive and adapts seamlessly to different screen sizes and devices, ensuring a consistent experience for all users.
 - Improved Performance: Optimization techniques were implemented to enhance the website's performance and loading speed.
 
-## Usage
-
-To view the website, simply visit [Antikvarijat Judita](http://www.antikvarijat-judita.hr/). in your web browser. You can explore the various pages and features of the website to experience the redesign firsthand.
-
 ## Contribution
 
 Contributions to the project are welcome. If you have any suggestions for further improvements or would like to report any issues, please feel free to submit a pull request or open an issue on GitHub.
